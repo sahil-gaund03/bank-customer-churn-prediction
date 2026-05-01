@@ -10,9 +10,7 @@ Customer churn is one of the most critical challenges in banking. Traditional mo
 
 ## 🌐 Live Demo
 
-👉 https://your-username-bank-churn-project.streamlit.app
-
-This system combines:
+👉https://bank-customer-churn-prediction0310.streamlit.app/
 
 * 📊 Exploratory Data Analysis (EDA)
 * ⚙️ Feature Engineering (behavioral metrics)
